@@ -1,0 +1,18 @@
+[submodule "alurabooks"]
+	path = alurabooks
+	url = https://github.com/EmbryND/alurabooks
+[submodule "flashcard"]
+	path = flashcard
+	url = https://github.com/EmbryND/flashcard
+[submodule "fundacaoMenteMagica"]
+	path = fundacaoMenteMagica
+	url = https://github.com/EmbryND/fundacaoMenteMagica
+[submodule "Cruntimao"]
+	path = Cruntimao
+	url = https://github.com/EmbryND/Cruntimao
+[submodule "pongjs"]
+	path = pongjs
+	url = https://github.com/EmbryND/pongjs
+[submodule "emBuscaDoTimePerdido"]
+	path = emBuscaDoTimePerdido
+	url = https://github.com/EmbryND/emBuscaDoTimePerdido
