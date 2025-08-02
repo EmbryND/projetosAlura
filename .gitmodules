@@ -16,3 +16,6 @@
 [submodule "emBuscaDoTimePerdido"]
 	path = emBuscaDoTimePerdido
 	url = https://github.com/EmbryND/emBuscaDoTimePerdido
+[submodule "liveaid"]
+	path = liveaid
+	url = https://github.com/EmbryND/liveaid
